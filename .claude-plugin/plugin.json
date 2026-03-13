@@ -1,0 +1,8 @@
+{
+  "name": "yt-mp3",
+  "description": "YouTube to MP3 converter. Download YouTube videos as MP3 audio files.",
+  "version": "0.1.0",
+  "author": {
+    "name": "shyamal"
+  }
+}
