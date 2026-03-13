@@ -7,7 +7,7 @@ name = "yt-mp3"
 version = "0.1.0"
 description = "YouTube to MP3 converter CLI"
 requires-python = ">=3.10"
-dependencies = ["yt-dlp>=2024.0.0"]
+dependencies = ["yt-dlp>=2024.0.0", "static-ffmpeg>=2.7"]
 
 [tool.setuptools]
 py-modules = ["yt_mp3"]
